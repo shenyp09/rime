@@ -1,0 +1,57 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	54
+#@/user_id	5e4e3767-f5da-4ade-a279-b5ab175e74ab
+bu 	不	c=1 d=1 t=54
+ce shi 	測試	c=0 d=0.0995012 t=54
+chuan shu 	傳輸	c=1 d=1 t=43
+ci ku 	詞庫	c=2 d=1.8825 t=39
+da suan 	打算	c=0 d=0.1 t=14
+dao ru 	導入	c=1 d=1 t=37
+de 	的	c=1 d=1 t=52
+dian nao zhuo 	電腦桌	c=2 d=1.99501 t=24
+fang kuo hao 	方括號	c=3 d=2.98012 t=11
+gua zai 	掛在	c=1 d=1 t=48
+gua zai 	掛載	c=1 d=1 t=49
+guan bi 	關閉	c=1 d=1 t=46
+hong dian 	紅點	c=1 d=1 t=29
+huan ye 	換頁	c=1 d=1 t=9
+kan qi lai 	看起來	c=0 d=0.1 t=4
+kan qi lai shi 	看起來是	c=1 d=1 t=5
+lei bo 	雷柏	c=1 d=1 t=34
+lei bo 	雷波	c=1 d=1 t=33
+lei si yu 	類似於	c=1 d=1 t=51
+liang jiao 	兩腳	c=1 d=1 t=32
+long 	龍	c=0 d=0.1 t=27
+me 	麼	c=2 d=1.99005 t=21
+ni shi 	你是	c=0 d=0.1 t=14
+ni shi da suan 	你是打算	c=1 d=1.0802 t=19
+ni shi da suan zhi jie shui jiao 	你是打算直接睡覺	c=1 d=1 t=20
+ou mu 	歐姆	c=0 d=0.1 t=27
+ou mu long 	歐姆龍	c=1 d=1 t=28
+qu dong 	驅動	c=1 d=1 t=45
+ruan jian 	軟件	c=1 d=1 t=53
+she zhi 	設置	c=1 d=1 t=7
+shen lan 	深藍	c=1 d=1 t=40
+shi 	是	c=0 d=0.1 t=4
+shi di fu 	史蒂夫	c=1 d=1 t=22
+shu jiao 	樹膠	c=1 d=1 t=17
+shu ju 	數據	c=1 d=1 t=44
+shu ru fa 	輸入法	c=3 d=2.42595 t=54
+shu ru fa ce shi 	輸入法測試	c=1 d=1 t=54
+shu xu guan 	鼠鬚管	c=3 d=2.75208 t=36
+shuang tou 	雙頭	c=1 d=1 t=30
+shui jiao 	睡覺	c=1 d=1.09501 t=19
+sou gou 	搜狗	c=1 d=1 t=38
+wang xian 	網線	c=0 d=0.1 t=41
+wang xian zhi lian 	網線直連	c=1 d=1 t=42
+wei dong 	微動	c=4 d=3.89699 t=35
+wei dong 	衛東	c=1 d=1 t=25
+xia 	下	c=1 d=1 t=50
+xian zai 	現在	c=1 d=1 t=4
+zhi jie 	直接	c=1 d=1.08511 t=19
+zhi lian 	直連	c=0 d=0.1 t=41
+zhuan huan 	轉換	c=1 d=1 t=41
+zi dong 	自動	c=1 d=1 t=47
